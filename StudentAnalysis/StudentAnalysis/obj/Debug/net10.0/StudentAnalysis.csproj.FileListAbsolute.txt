@@ -1,0 +1,15 @@
+D:\дз\не заходить!!!!\StudentAnalysis\StudentAnalysis\bin\Debug\net10.0\StudentAnalysis.exe
+D:\дз\не заходить!!!!\StudentAnalysis\StudentAnalysis\bin\Debug\net10.0\StudentAnalysis.deps.json
+D:\дз\не заходить!!!!\StudentAnalysis\StudentAnalysis\bin\Debug\net10.0\StudentAnalysis.runtimeconfig.json
+D:\дз\не заходить!!!!\StudentAnalysis\StudentAnalysis\bin\Debug\net10.0\StudentAnalysis.dll
+D:\дз\не заходить!!!!\StudentAnalysis\StudentAnalysis\bin\Debug\net10.0\StudentAnalysis.pdb
+D:\дз\не заходить!!!!\StudentAnalysis\StudentAnalysis\obj\Debug\net10.0\StudentAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\дз\не заходить!!!!\StudentAnalysis\StudentAnalysis\obj\Debug\net10.0\StudentAnalysis.AssemblyInfoInputs.cache
+D:\дз\не заходить!!!!\StudentAnalysis\StudentAnalysis\obj\Debug\net10.0\StudentAnalysis.AssemblyInfo.cs
+D:\дз\не заходить!!!!\StudentAnalysis\StudentAnalysis\obj\Debug\net10.0\StudentAnalysis.csproj.CoreCompileInputs.cache
+D:\дз\не заходить!!!!\StudentAnalysis\StudentAnalysis\obj\Debug\net10.0\StudentAnalysis.dll
+D:\дз\не заходить!!!!\StudentAnalysis\StudentAnalysis\obj\Debug\net10.0\refint\StudentAnalysis.dll
+D:\дз\не заходить!!!!\StudentAnalysis\StudentAnalysis\obj\Debug\net10.0\StudentAnalysis.pdb
+D:\дз\не заходить!!!!\StudentAnalysis\StudentAnalysis\obj\Debug\net10.0\StudentAnalysis.genruntimeconfig.cache
+D:\дз\не заходить!!!!\StudentAnalysis\StudentAnalysis\obj\Debug\net10.0\ref\StudentAnalysis.dll
+D:\дз\не заходить!!!!\StudentAnalysis\StudentAnalysis\obj\Debug\net10.0\StudentA.85D996FD.Up2Date
